@@ -1,6 +1,9 @@
 ##神经网络实现手写字符识别系统
+
 ###该project是参照实验楼课程的代码
+
 原课程地址: https://www.shiyanlou.com/courses/593/labs/1966/document
+
 ###本课程项目完成过程中，我们将学习：
 
 >什么是神经网络
